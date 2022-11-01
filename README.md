@@ -14,4 +14,4 @@ This repo contain on
 6. model.pkl file
 7. requirements.txt file
 8. Procfile
-
+9. PDF - Document 
