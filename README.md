@@ -5,12 +5,8 @@
 This repo contain on 
 
 1. ML Deplyment using flask on heroku
-- templates folder
-<br>
-   has index.html
-- static folder 
-<br>
-   has css folder and images folder
+- templates folder has index.html
+- static folder has css folder and images folder
 - hiring.csv file
 - model.py file
 - app.py file
